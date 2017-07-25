@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Framework", "Hotel.Framework\Hotel.Framework.csproj", "{E9501BCA-6595-4F40-AEA7-131BB7EC1C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Collection.Test", "Hotel.Collection.Test\Hotel.Collection.Test.csproj", "{F23581C6-C37E-4DEF-891B-10309894DBFD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E9501BCA-6595-4F40-AEA7-131BB7EC1C22} = {E9501BCA-6595-4F40-AEA7-131BB7EC1C22}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9501BCA-6595-4F40-AEA7-131BB7EC1C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9501BCA-6595-4F40-AEA7-131BB7EC1C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9501BCA-6595-4F40-AEA7-131BB7EC1C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9501BCA-6595-4F40-AEA7-131BB7EC1C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23581C6-C37E-4DEF-891B-10309894DBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23581C6-C37E-4DEF-891B-10309894DBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23581C6-C37E-4DEF-891B-10309894DBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23581C6-C37E-4DEF-891B-10309894DBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\All Projects\HotelCollection Automation\HotelCollection\Hotel.Framework\bin\Debug\Hotel.Framework.dll
+D:\All Projects\HotelCollection Automation\HotelCollection\Hotel.Framework\bin\Debug\Hotel.Framework.pdb
+D:\All Projects\HotelCollection Automation\HotelCollection\Hotel.Framework\obj\Debug\Hotel.Framework.dll
+D:\All Projects\HotelCollection Automation\HotelCollection\Hotel.Framework\obj\Debug\Hotel.Framework.pdb
+D:\All Projects\HotelCollection Automation\HotelCollection\Hotel.Framework\bin\Debug\log4net.dll
+D:\All Projects\HotelCollection Automation\HotelCollection\Hotel.Framework\bin\Debug\log4net.xml
+D:\All Projects\HotelCollection Automation\HotelCollection\Hotel.Framework\obj\Debug\Hotel.Framework.csprojResolveAssemblyReference.cache
