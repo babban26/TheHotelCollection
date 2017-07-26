@@ -3,8 +3,8 @@
   
 <browsers>
   
-  <firefox>true</firefox> 
-  <chrome>false</chrome> 
+  <firefox>false</firefox> 
+  <chrome>true</chrome> 
   <ie>false</ie> 
 
 </browsers>
